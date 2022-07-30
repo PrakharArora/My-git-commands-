@@ -1,0 +1,22 @@
+1)git add . 
+
+2)git commit -m "Message"
+
+3)git pull origin  "Branch name" (Now merge conflict will appear) compare them and solve them
+
+4)git commit "Branch Name"
+
+5)git pull origin  "Branch name" Again
+
+6)if message appear "All changes up to date"
+
+7)git push "Branch Name"
+
+8)Now create Merge Request 
+
+
+
+
+
+
+
